@@ -1,5 +1,5 @@
 Sobre mim
-- 👋 Oi eu sou @mystmavys
+- 👋 Oi eu sou ¨@mystmavys¨
 - 👀 Eu estou interessada em aprender linguagens de progamação.
 - 🌱 Recentemente eu aprendi as linguagens do Scratch e JavaScript.
 

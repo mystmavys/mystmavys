@@ -1,6 +1,6 @@
 Sobre mim
 - 👋 Oi eu sou ¨@mystmavys¨
-- 🧚‍♀️ Estou lendo a Saga Acotar
+- 🧚‍♀️ Estou lendo Cidadão Incomum
 - 👀 Eu estou interessada em aprender linguagens de progamação.
 - 🌱 Recentemente eu aprendi as linguagens do Scratch e JavaScript.
 - 👠 Atualmente estou trabalhando como vendedora em uma loja de sapatos
